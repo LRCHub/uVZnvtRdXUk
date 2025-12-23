@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "粉雪 (SUMMER LIVE \"STAND BY ME\")",
+  "base_artist": "レミオロメン",
+  "createdAt": "2025-12-23T02:51:26.576534Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "粉雪",
+      "artist": "レミオロメン",
+      "has_synced": true,
+      "path": "select/01_粉雪_レミオロメン.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "粉雪",
+      "artist": "Remioromen",
+      "has_synced": true,
+      "path": "select/02_粉雪_Remioromen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "粉雪",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/03_粉雪_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "粉雪",
+      "artist": "レミオロメン",
+      "has_synced": true,
+      "path": "select/04_粉雪_レミオロメン.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "粉雪",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": false,
+      "path": "select/05_粉雪_高木さん(CV_高橋李依).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "粉雪",
+      "artist": "Remioromen",
+      "has_synced": true,
+      "path": "select/06_粉雪_Remioromen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "粉雪",
+      "artist": "レミオロメン",
+      "has_synced": true,
+      "path": "select/07_粉雪_レミオロメン.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "粉雪",
+      "artist": "CAPSULE",
+      "has_synced": true,
+      "path": "select/08_粉雪_CAPSULE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "粉雪",
+      "artist": "レミオロメン",
+      "has_synced": true,
+      "path": "select/09_粉雪_レミオロメン.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "粉雪",
+      "artist": "Remioromen",
+      "has_synced": true,
+      "path": "select/10_粉雪_Remioromen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "粉雪",
+      "artist": "高木さん (高橋李依)",
+      "has_synced": false,
+      "path": "select/11_粉雪_高木さん_(高橋李依).txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "粉雪",
+      "artist": "花澤香菜",
+      "has_synced": false,
+      "path": "select/12_粉雪_花澤香菜.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "粉雪",
+      "artist": "Ryota Fujimaki",
+      "has_synced": true,
+      "path": "select/13_粉雪_Ryota_Fujimaki.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "粉雪",
+      "artist": "高木さん(CV.高橋李依)",
+      "has_synced": true,
+      "path": "select/14_粉雪_高木さん(CV.高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Powder Snow [粉雪]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/15_Powder_Snow_[粉雪]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "粉雪 (“Your Songs”with strings at Yokohama Arena ver.)",
+      "artist": "レミオロメン",
+      "has_synced": false,
+      "path": "select/16_粉雪_(“Your_Songs”with_strings_at_Yokohama_Arena_ver.)_レミオロメン.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "粉雪 - KONAYUKI",
+      "artist": "Remioromen",
+      "has_synced": true,
+      "path": "select/17_粉雪_-_KONAYUKI_Remioromen.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "粉雪、フワリ。",
+      "artist": "Lily.μ",
+      "has_synced": false,
+      "path": "select/18_粉雪、フワリ。_Lily.μ.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "粉雪 - KONAYUKI",
+      "artist": "Remioromen",
+      "has_synced": true,
+      "path": "select/19_粉雪_-_KONAYUKI_Remioromen.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "粉雪 - KONAYUKI",
+      "artist": "Remioromen",
+      "has_synced": true,
+      "path": "select/20_粉雪_-_KONAYUKI_Remioromen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "粉雪",
+      "artist": "レミオロメン",
+      "has_synced": false,
+      "path": "select/pl_01_粉雪_レミオロメン.txt"
+    }
+  ]
+}
